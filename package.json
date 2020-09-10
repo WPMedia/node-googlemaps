@@ -25,7 +25,7 @@
     "node": ">=0.3.6"
   },
   "dependencies": {
-    "request": "~2.2.9",
+    "request": "~2.88.2",
     "waitress": ">=0.0.2"
   },
   "scripts": {
